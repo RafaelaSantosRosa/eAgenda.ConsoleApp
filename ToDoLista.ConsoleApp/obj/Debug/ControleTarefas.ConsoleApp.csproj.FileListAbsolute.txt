@@ -1,0 +1,7 @@
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\bin\Debug\ToDoLista.ConsoleApp.exe.config
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\bin\Debug\ToDoLista.ConsoleApp.exe
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\bin\Debug\ToDoLista.ConsoleApp.pdb
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\obj\Debug\ControleTarefas.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\obj\Debug\ControleTarefas.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\obj\Debug\ToDoLista.ConsoleApp.exe
+C:\Users\rafae\Source\Repos\eAgenda\ToDoLista.ConsoleApp\obj\Debug\ToDoLista.ConsoleApp.pdb
